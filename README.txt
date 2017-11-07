@@ -20,7 +20,8 @@ caused by JQuestions or the asssociated JQuestions Editor.
 
 For latest version, question forum and bug reporting please 
 see
-         http://sourceforge.net/projects/jquestions
+
+         https://github.com/github9000/JQuestions
 
    Features to add:
        - A mobile (J2ME) device version. 
